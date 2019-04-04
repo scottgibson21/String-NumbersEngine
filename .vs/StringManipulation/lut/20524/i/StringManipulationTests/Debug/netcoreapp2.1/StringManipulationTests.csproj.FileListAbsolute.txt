@@ -1,0 +1,13 @@
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\StringManipulationTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\StringManipulationTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\StringManipulationTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.deps.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.runtimeconfig.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.runtimeconfig.dev.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.csprojAssemblyReference.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.csproj.CoreCompileInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.AssemblyInfoInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.AssemblyInfo.cs
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.csproj.CopyComplete
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulationTests\Debug\netcoreapp2.1\StringManipulationTests.dll

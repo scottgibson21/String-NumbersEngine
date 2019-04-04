@@ -1,0 +1,10 @@
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.deps.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.runtimeconfig.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.runtimeconfig.dev.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.AssemblyInfo.cs
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.csproj.CopyComplete
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculator\Debug\netcoreapp2.1\MortgageCalculator.csprojAssemblyReference.cache

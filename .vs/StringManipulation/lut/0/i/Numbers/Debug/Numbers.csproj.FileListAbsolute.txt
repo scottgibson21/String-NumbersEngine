@@ -1,0 +1,5 @@
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\Numbers\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\Numbers\Debug\Numbers.csproj.CopyComplete
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\Numbers\Debug\ClassLibrary1.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\Numbers\Debug\Numbers.csprojAssemblyReference.cache

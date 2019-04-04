@@ -1,0 +1,5 @@
+C:\Users\scott.gibson\source\repos\StringManipulation\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\scott.gibson\source\repos\StringManipulation\ClassLibrary1\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

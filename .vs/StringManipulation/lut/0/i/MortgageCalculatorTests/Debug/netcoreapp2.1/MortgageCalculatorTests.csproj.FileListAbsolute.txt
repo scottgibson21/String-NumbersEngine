@@ -1,0 +1,13 @@
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculatorTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculatorTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculatorTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.deps.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.runtimeconfig.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.runtimeconfig.dev.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.AssemblyInfo.cs
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.csproj.CopyComplete
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\MortgageCalculatorTests\Debug\netcoreapp2.1\MortgageCalculatorTests.csprojAssemblyReference.cache

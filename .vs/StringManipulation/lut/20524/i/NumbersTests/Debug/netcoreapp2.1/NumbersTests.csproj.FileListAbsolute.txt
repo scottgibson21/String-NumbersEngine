@@ -1,0 +1,13 @@
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\NumbersTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\NumbersTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\NumbersTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\NumbersTests\Debug\netcoreapp2.1\NumbersTests.deps.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\NumbersTests\Debug\netcoreapp2.1\NumbersTests.runtimeconfig.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\NumbersTests\Debug\netcoreapp2.1\NumbersTests.runtimeconfig.dev.json
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\b\NumbersTests\Debug\netcoreapp2.1\NumbersTests.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\NumbersTests\Debug\netcoreapp2.1\NumbersTests.csproj.CoreCompileInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\NumbersTests\Debug\netcoreapp2.1\NumbersTests.AssemblyInfoInputs.cache
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\NumbersTests\Debug\netcoreapp2.1\NumbersTests.AssemblyInfo.cs
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\NumbersTests\Debug\netcoreapp2.1\NumbersTests.csproj.CopyComplete
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\NumbersTests\Debug\netcoreapp2.1\NumbersTests.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\NumbersTests\Debug\netcoreapp2.1\NumbersTests.csprojAssemblyReference.cache
