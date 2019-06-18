@@ -7,3 +7,4 @@ C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut
 C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulation\Debug\netcoreapp2.1\StringManipulation.AssemblyInfo.cs
 C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulation\Debug\netcoreapp2.1\StringManipulation.csproj.CopyComplete
 C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulation\Debug\netcoreapp2.1\StringManipulation.dll
+C:\Users\scott.gibson\source\repos\StringManipulation\.vs\StringManipulation\lut\0\i\StringManipulation\Debug\netcoreapp2.1\StringManipulation.csprojAssemblyReference.cache
